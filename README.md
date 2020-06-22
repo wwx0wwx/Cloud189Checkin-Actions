@@ -37,6 +37,8 @@ jntmcxk
 2 修改任意文件后提交一次  
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
 
+
+
 ## 四、查看运行结果
 Actions > Cloud189Checkin > build  
 能看到如下图所示，表示成功  
